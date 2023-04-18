@@ -16,10 +16,12 @@ In this paper, a new Discontinuity Capturing Shallow Neural Network (DCSNN) for 
 ## Citations
 
 ```
-@misc{HLL21DCSNN,
-  title = {A Discontinuity Capturing Shallow Neural Network for Elliptic Interface Problems},
-  author = {Hu, Wei-Fan and Lin, Te-Sheng and Lai, Ming-Chih},
-  year = {2022},
-  eprint={2106.05587},
-  archivePrefix={arXiv}
-```
+@article{HLL22,
+  author = {W.-F. Hu and T.-S. Lin and M.-C. Lai},
+  doi = {10.1016/j.jcp.2022.111576},
+  journal = {Journal of Computational Physics},
+  number = {469},
+  pages = {111576},
+  title = {{A Discontinuity Capturing Shallow Neural Network for Elliptic Interface Problems}},
+  year = {2022}
+}
